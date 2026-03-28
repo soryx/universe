@@ -1,5 +1,5 @@
-@import url('fontawesome-all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(fontawesome-all.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
 
 /*
 	Story by HTML5 UP
@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Noto Sans", Arial;
+		font-family: "Onest", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
